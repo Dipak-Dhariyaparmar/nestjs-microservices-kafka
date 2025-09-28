@@ -1,4 +1,4 @@
-// This is a dynamic response related components
+// This is a dynamic response related component
 
 import { NestInterceptor, ExecutionContext, CallHandler, UseInterceptors, Injectable } from '@nestjs/common';
 import { Observable } from 'rxjs';
