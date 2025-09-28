@@ -1,3 +1,3 @@
-// this is soccket helper component
+// this is soccket helper components
 
 export { default as RunWithTimeOut} from "./runWithTimeout"
