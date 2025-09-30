@@ -1,6 +1,6 @@
 export default () => ({
   /**********************************
-   Main Service Configuration 
+   Main Service Configuratios
   ***********************************/
   PORT: process.env.PORT || 3001,
   usersAuth: {
