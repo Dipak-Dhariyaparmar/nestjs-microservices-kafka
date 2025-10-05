@@ -1,4 +1,4 @@
-// This component is related to config relateds
+// This component is related to config related
 
 import { Module } from '@nestjs/common';
 import { ConfigModule as NestConfigModule } from '@nestjs/config';
