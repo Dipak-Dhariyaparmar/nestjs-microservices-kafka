@@ -1,3 +1,5 @@
+// This component is related to config relateds
+
 import { Module } from '@nestjs/common';
 import { ConfigModule as NestConfigModule } from '@nestjs/config';
 import { configsSchema, configurations } from 'src/configs';
