@@ -1,4 +1,4 @@
-//this is main app module related components
+//this is main app module related component
 
 import { Module } from '@nestjs/common';
 import { ConfigurationModule } from './modules/config/config.module';
