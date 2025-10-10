@@ -1,3 +1,5 @@
+//this is main app module related component
+
 import { Module } from '@nestjs/common';
 import { ConfigurationModule } from './modules/config/config.module';
 import { HealthModule } from './modules/health/health.module';
